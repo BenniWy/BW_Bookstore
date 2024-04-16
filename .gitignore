@@ -44,3 +44,5 @@ _ReSharper*/
 # SSL/TLS certificates and private keys
 cert.pem
 key.pem
+
+.DS_Store
