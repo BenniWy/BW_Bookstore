@@ -1,0 +1,46 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio code files
+.vscode/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nuget.config
+*.dotnet-tools.json
+*.userprefs
+
+# SSL/TLS certificates and private keys
+cert.pem
+key.pem
