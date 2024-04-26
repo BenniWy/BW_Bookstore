@@ -12,7 +12,7 @@ services:
       context: .
       dockerfile: Dockerfile
     environment:
-      - ConnectionStrings__DefaultConnection=User ID=postgres;Password=postgres;Server=bwbookstore_db;Port=5432;Database=BWDbBookstore;Pooling=true;
+      - ConnectionStrings__DefaultConnection
       - ASPNETCORE_URLS=http://+:8080
     networks:
       - dev
