@@ -1,6 +1,6 @@
 # BW_Bookstore
 
-To view the data, it must be entered manually in the database.
+In order to view the data, it needs to be manually entered into the database.
 
 INSERT INTO "Genre" ("Id", "GenreName") VALUES (1, 'Romance');
 INSERT INTO "Genre" ("Id", "GenreName") VALUES (2, 'Action');
